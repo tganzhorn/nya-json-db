@@ -13,6 +13,7 @@
         "list": "cpp",
         "tuple": "cpp",
         "vector": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "fstream": "cpp"
     }
 }

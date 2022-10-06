@@ -1,4 +1,7 @@
 {
     "bail": 1,
-    "verbose": true
+    "verbose": true,
+    "roots": [
+        "tests"
+    ]
 }

@@ -1,6 +1,7 @@
 {
   "name": "nya-json-db",
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "homepage": "https://github.com/tganzhorn/nya-json-db",
   "description": "(Not yet another) json database is a super simple implementation of a database which uses c++ in the backend.",
   "main": "index.js",
   "gypfile": true,
