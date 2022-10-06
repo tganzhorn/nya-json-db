@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp",
+        "xstring": "cpp",
+        "map": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "list": "cpp",
+        "tuple": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp"
+    }
+}
